@@ -1,3 +1,4 @@
+
 const fs=require('fs');
 
 var addNote=(note)=>{
@@ -49,4 +50,5 @@ module.exports={
 	deleteNote,
 	getIdentityValue,
 	setIdentityValue
+
 };
